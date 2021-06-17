@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Authors>Ali Khancherli and Abolfazl Haji pour</Authors>
+    <Company>AbolAli</Company>
+    <Description>A pagination that page any lists</Description>
+  </PropertyGroup>
+
+</Project>
